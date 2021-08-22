@@ -34,17 +34,19 @@ patch:
   # 本條補靪只在「小狼毫 0.9.30」、「鼠鬚管 0.9.25 」、「Rime-1.2」及更高的版本中起作用。
   "speller/algebra/@before 0": xform/^([b-df-hj-np-tv-z])$/$1_/
 
-  # 加載 easy_en 依賴
-  "schema/dependencies/@next": easy_en
-  # 載入翻譯英文的碼表翻譯器，取名爲 english
-  "engine/translators/@next": table_translator@english
-  # english 翻譯器的設定項
-  english:
-    dictionary: easy_en
-    spelling_hints: 9
-    enable_completion: false
-    enable_sentence: false
-    initial_quality: -3
+  # # easy_en
+  # #
+  # # 加載 easy_en 依賴
+  # "schema/dependencies/@next": easy_en
+  # # 載入翻譯英文的碼表翻譯器，取名爲 english
+  # "engine/translators/@next": table_translator@english
+  # # english 翻譯器的設定項
+  # english:
+    # dictionary: easy_en
+    # spelling_hints: 9
+    # enable_completion: false
+    # enable_sentence: false
+    # initial_quality: -3
 
 
 
