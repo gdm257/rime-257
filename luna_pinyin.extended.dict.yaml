@@ -61,7 +61,7 @@ import_tables:
   - luna_pinyin.anime
   - luna_pinyin.biaoqing
   - luna_pinyin.chat
-  - luna_pinyin.cn_en
+  # - luna_pinyin.cn_en
   - luna_pinyin.computer
   - luna_pinyin.emoji
   - luna_pinyin.extra_hanzi
