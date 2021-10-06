@@ -20,6 +20,12 @@ use_preset_vocabulary: true
 # (注意是用制表符分割)：
 # 文字	编码	频次(可省略)
 
+
+# 自定义
+
+圩	xu
+吴圩	wu xu
+
 lithromantic	lithromantic	10000
 Miami	miami	10000
 Hong Kong	h k	10000
