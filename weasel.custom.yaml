@@ -97,6 +97,9 @@ patch:
       ascii_mode: true
     idman.exe:
       ascii_mode: true
+    #影音
+    mpc-be64.exe:
+      ascii_mode: true
     #Game
     th06.exe:
       ascii_mode: true
@@ -105,4 +108,10 @@ patch:
     game.exe:
       ascii_mode: true
     griefsyndrome.exe:
+      ascii_mode: true
+    osu!.exe:
+      ascii_mode: true
+    journey.exe:
+      ascii_mode: true
+    darksoulsremastered.exe:
       ascii_mode: true
