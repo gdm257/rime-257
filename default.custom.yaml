@@ -15,6 +15,7 @@ patch:
   schema_list:
     - {schema: luna_pinyin_simp}     # 朙月拼音·简化字，可以按 ctrl+` 选择临时启用正體中文
     - {schema: nihongo-r}            # 日语
+    - {schema: ipa_yunlong}          # 英语音标
 
 
   # 切换方案快捷键
