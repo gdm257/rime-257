@@ -1,2 +1,5 @@
 *.lnk
 *mysecret*
+*.userdb/
+sync/
+build/
