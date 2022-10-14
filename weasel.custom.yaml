@@ -29,10 +29,8 @@ patch:
     hilite_spacing: 4
     hilite_padding: 2
     round_corner: 4
-  
-  
-  
-  
+
+
   # 皮肤
   "style/color_scheme": sao
   "preset_color_schemes/sao":
@@ -53,12 +51,9 @@ patch:
     hilited_candidate_text_color: 0x0000b0
     hilited_comment_text_color: 0x0000b0
     hilited_candidate_back_color: 0xffffff
-  
-  
-  
-  
+
+
   # 自动切换为英文
-  #
   app_options:
     #文本（程序名一律小写）
     notepad2.exe:
@@ -83,6 +78,8 @@ patch:
       ascii_mode: true
     powershell.exe:
       ascii_mode: true
+    WindowsTerminal.exe:
+      ascii_mode: true
     #网络
     winscp.exe:
       ascii_mode: true
@@ -99,6 +96,10 @@ patch:
       ascii_mode: true
     #影音
     mpc-be64.exe:
+      ascii_mode: true
+    mpv.exe:
+      ascii_mode: true
+    mpvnet.exe:
       ascii_mode: true
     #Game
     th06.exe:
